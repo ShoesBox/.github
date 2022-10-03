@@ -28,6 +28,8 @@ A에게도 B에게도 C에게도 같은 얘기를 반복하기는 귀찮고, 나
 |김동규|`FE`|
 |황선하|`FE`|
 
+* [프론트엔드 깃허브 링크](https://github.com/shoesbox/shoesbox-fe)
+* [백엔드 깃허브 링크](https://github.com/shoesbox/shoesbox-be)
 
 ## 2. 사용 기술
 
